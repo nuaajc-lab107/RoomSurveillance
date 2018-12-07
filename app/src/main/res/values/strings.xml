@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomSurveillance</string>
+    <string name="login">登陆</string>
+    <string name="name">用户名：</string>
+    <string name="pass">密码：</string>
+    <string name="nameex">请输入用户名！</string>
+    <string name="pswdex">请输入密码！</string>
+</resources>
